@@ -5,7 +5,7 @@
 <p></p>
 <p> Hier findet ihr unsere Präsentation als auch die Praxisübung und die Lösung, welche wir nach der Präsentation hochladen werden.</p>
 <p></p>
-<p> Schaut es euch in Ruhe an :smile: </p>
+<p> Schaut es euch in Ruhe an. :smile: </p>
 <p> Euer Team </p>
 <p> Eric, Lukas, Julian, Saleh und Niclas </p>
 <p>:raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands:</p>
