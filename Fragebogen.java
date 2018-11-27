@@ -32,8 +32,8 @@ public class Fragebogen {
             System.out.println("Die Antwort ist");
         }
 
-        String[] choices2 = {"A", "B", "C"};
-        String input2 = (String) JOptionPane.showInputDialog(null, "Welche der folgenden Antworten ist richtig?",
+        String[] choices2 = {"GNU GPL v2", "Apache Lizenz", "Mozilla Public License"};
+        String input2 = (String) JOptionPane.showInputDialog(null, "Welche ist die meist verwendete Lizenz in der Open-Source Community?",
                 "DAS ULTIMATIVE OPEN SOURCE QUIZ", JOptionPane.QUESTION_MESSAGE, null,
                 choices2,
                 choices2[0]);
