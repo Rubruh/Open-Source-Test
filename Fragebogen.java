@@ -46,8 +46,8 @@ public class Fragebogen {
             System.out.println("Die Antwort ist");
         }
 
-        String[] choices3 = {"A", "B", "C"};
-        String input3 = (String) JOptionPane.showInputDialog(null, "Welche der folgenden Antworten ist richtig?",
+        String[] choices3 = {"README", "Code of Conduct", "License", "Contributing File"};
+        String input3 = (String) JOptionPane.showInputDialog(null, "Welcher der Dateien bestimmt eine Art Verhaltenskodex bei der Mitarbeit an einem Open Source Programm?",
                 "DAS ULTIMATIVE OPEN SOURCE QUIZ", JOptionPane.QUESTION_MESSAGE, null,
                 choices3,
                 choices3[0]);
