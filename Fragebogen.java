@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Fragebogen {
 
-    public static void main(String[] a) {
+    public static void main(String[] args) {
 
         String[] choices = {"eine Versionshistorie", "eine direkte Codeanalyse", "eine Urkunde (ausgestellt vom Ministerium für technische Entwicklung)"};
         String input = (String) JOptionPane.showInputDialog(null, "Je nach Software und Lizenz erhält man oft nicht nur den Quellcode, sondern auch..",
