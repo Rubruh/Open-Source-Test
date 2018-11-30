@@ -1,0 +1,5 @@
+Je nach Software und Lizenz erhält man oft nicht nur den Quellcode, sondern auch...
+Was ist eine profitable Möglichkeit, Geld einzunehmen?
+Welche ist die meist verwendete Lizenz in der OpenSource Community?
+Welcher der Dateien bestimmt eine Art Verhaltenskodex bei der Mitarbeit an einem Open Source Programm?
+Aus welchem Grund sollte man Software-Abhängigkeiten vermeiden?
