@@ -52,7 +52,7 @@ public class Fragebogen {
 	
         String input1 = retrieveUserInput(1, choices1, choices1[0]);
 
-	System.out.print("Die Antwort ist");
+	System.out.print("Die Antwort ist: ");
         if (input1 == choices1[0]) {
 
 	} else if (input1 == choices1[1]) {
@@ -65,7 +65,7 @@ public class Fragebogen {
 
 	String input2 = retrieveUserInput(2, choices2, choices2[0]);
 
-	System.out.print("Die Antwort ist");
+	System.out.print("Die Antwort ist: ");
         if (input2 == choices2[0]) {
 
 	} else if (input2 == choices2[1]) {
@@ -78,7 +78,7 @@ public class Fragebogen {
 	
 	String input3 = retrieveUserInput(3, choices3, choices3[0]);
 
-	System.out.print("Die Antwort ist");
+	System.out.print("Die Antwort ist: ");
         if (input3 == choices3[0]) {
 
 	} else if (input3 == choices3[1]) {
