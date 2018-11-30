@@ -85,6 +85,8 @@ public class Fragebogen {
 
 	} else if (input3 == choices3[2]) {
 
+	} else if (input3 == choices3[3]) {
+		
 	}
 
 	// Code-Eigenschaften-Fragebogen
